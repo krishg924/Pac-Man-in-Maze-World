@@ -22,5 +22,3 @@ The **Pac-Man in Maze World** is designed to create a **navigation system** for 
 - OOPS Concept
 
 ---
-
-Feel free to explore the code and the specific algorithms implemented in this system. Contributions and feedback are always welcome!
