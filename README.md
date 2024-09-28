@@ -14,11 +14,11 @@ The **Pac-Man in Maze World** is designed to create a **navigation system** for 
 - **Space complexity**: O(n * m), where `n` is the number of rows and `m` is the number of columns in the Maze.
 
 ### Algorithms:
-- **Depth First Search**: Selects the smallest capacity bin that can accommodate the object.
+- **Depth First Search**: Conducts exhaustive search by moving forward if possible and backtracking, if necessary.
 
 ### Technologies Used:
 - Python
-- AVL Trees
+- Stacks
 - OOPS Concept
 
 ---
